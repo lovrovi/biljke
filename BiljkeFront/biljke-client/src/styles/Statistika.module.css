@@ -1,0 +1,46 @@
+.decrementButton{
+    width: 20px;
+    height: 27px;
+    margin: 5px;
+    margin-left: 15px;
+    vertical-align: bottom;
+    font-size: 20px;
+    cursor: pointer;
+}
+.statistikaPage{
+    margin-left: 0px;
+}
+.incrementButton{
+    width: 20px;
+    height: 27px;
+    margin: 5px;
+    vertical-align: bottom;
+    font-size: 20px;
+    cursor: pointer;
+}
+.chartContainer{
+    max-height: 200px;
+    height: 200px;
+    width: 93%;
+    margin: auto;
+}
+.godineContainer{
+    display: inline-block;
+    min-width: fit-content;
+}
+.chartHeader{
+    width: 90%;
+    margin: auto;
+}
+@media(min-width: 500px){
+    .chartContainer{
+        max-height: 200px;
+        height: 200px;
+    }
+}
+@media(min-width: 1000px){
+    .chartContainer{
+        max-height: 250px;
+        height: 250px;
+    }
+}

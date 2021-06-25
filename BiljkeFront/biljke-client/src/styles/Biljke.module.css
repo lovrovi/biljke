@@ -1,0 +1,238 @@
+.biljke {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 15px;
+    width: 93%;
+    margin: auto;
+    justify-content: center;
+    padding: 0 10px;
+    margin-bottom: 70px;
+}
+
+.biljkePage {
+    margin-left: 0;
+    transition: 1s ease;
+}
+
+.biljkeSearch {
+    display: flex;
+    height: 40px;
+    padding: 5px;
+    overflow: hidden;
+    visibility: visible;
+    opacity: 1;
+    transition: 0.5s ease;
+    margin: 0 3%;
+}
+
+.biljkeSearchHide {
+    height: 0px !important;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.biljkeSearch input {
+    width: 100%;
+    height: 35px;
+    font-size: 18px;
+    outline-color: green;
+    border-color: green;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 3px;
+    padding: 2px;
+}
+
+.biljkeSidebarFilter {
+    width: 100%;
+    height: fit-content;
+    background-color: var(--main-color);
+    padding: 7px 10px;
+    line-height: 15px;
+}
+
+.biljkeSidebarFilter p {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+
+.biljkeSidebarRow {
+    width: 100%;
+    margin-left: 10px;
+}
+
+.biljkeSidebarRow label {
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.hrSidebar {
+    width: 100%;
+    height: 2px;
+    outline: none;
+    border: none;
+    background-color: var(--secondary-color);
+}
+
+.biljkeSidebarRow {
+    display: flex;
+    position: relative;
+    padding-left: 0px;
+    margin-bottom: 3px;
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    align-items: center;
+}
+
+
+/* Hide the browser's default checkbox */
+
+.biljkeSidebarRow input[type=checkbox] {
+    width: 17px;
+    height: 17px;
+    background-color: rgb(147, 211, 147);
+    cursor: pointer;
+    margin: 5px;
+    outline: 2px solid rgb(35, 34, 143);
+    font-size: 2em;
+    filter: hue-rotate(270deg) brightness(133%);
+}
+
+.biljkeSidebarRow input[type=radio] {
+    width: 17px;
+    height: 17px;
+    background-color: rgb(147, 211, 147);
+    cursor: pointer;
+    margin: 5px;
+    font-size: 2em;
+    position: absolute;
+    filter: hue-rotate(270deg) brightness(133%);
+}
+
+.radioDiv {
+    display: flex;
+    width: 23px;
+    height: 23px;
+    margin: 2.5px;
+    box-shadow: inset 0 0 2px 2px rgb(13, 99, 27);
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.biljkaDetailsContainer {
+    width: 93%;
+    margin: auto;
+}
+
+.skladisteDetailss {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.imgFrameDetails img {
+    width: 100%;
+    /*max-width: fit-content;*/
+    /*height: 300px !important;*/
+    margin-right: 20px;
+    box-shadow: 0 0 5px 1px #888;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.detailsTitle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 12px;
+    box-shadow: 1px 1px 2px #000;
+    border-radius: 7px;
+    overflow: hidden;
+    background-color: #ddd;
+}
+
+.detailsTitle span {
+    background-color: var(--main-color);
+    width: 170px !important;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px 10px;
+    letter-spacing: 0.5px;
+    color: #fff;
+    font-weight: none;
+}
+
+.detailsTitle p {
+    background: #ddd;
+    font-size: 16px;
+    /*min-width: 350px;*/
+    padding: 5px 10px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+.biljnaPutovnicaSkladiste {
+    padding: 10px;
+    background: var(--secondary-color);
+    border-radius: 10px;
+    box-shadow: 0 0 5px 3px var(--main-color);
+    max-width: fit-content;
+    height: fit-content;
+    margin: 20px auto 20px auto;
+}
+
+.biljnaPutovnicaSkladiste h3 {
+    color: rgb(13, 99, 27);
+    margin-bottom: 15px;
+}
+
+.biljnaPutovnicaDetails {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+.biljnaPutovnicaDetails span {
+    width: 90px !important;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+@media(min-width: 450px) {
+    .biljke {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 15px;
+    }
+}
+
+@media(min-width: 1200px) {
+    .biljke {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 20px;
+    }
+    .skladisteDetailss {
+        flex-direction: row;
+    }
+    .imgFrameDetails img {
+        max-width: fit-content;
+        height: 300px !important;
+    }
+    .skladisteRight {
+        margin-left: 20px;
+    }
+    .detailsTitle p {
+        min-width: 350px;
+    }
+    .biljnaPutovnicaSkladiste {
+        min-width: fit-content;
+        margin: 0 20px;
+    }
+}

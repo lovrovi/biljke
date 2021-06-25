@@ -1,0 +1,78 @@
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.exe
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.deps.json
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.runtimeconfig.json
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.runtimeconfig.dev.json
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\ref\BiljkeApi.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.pdb
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.AssemblyInfoInputs.cache
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.AssemblyInfo.cs
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.csproj.CoreCompileInputs.cache
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\staticwebassets\BiljkeApi.StaticWebAssets.Manifest.cache
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\staticwebassets\BiljkeApi.StaticWebAssets.xml
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\scopedcss\bundle\BiljkeApi.styles.css
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.RazorTargetAssemblyInfo.cache
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.csproj.CopyComplete
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\ref\BiljkeApi.dll
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.pdb
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.genruntimeconfig.cache
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.exe
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.deps.json
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.runtimeconfig.json
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.runtimeconfig.dev.json
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\ref\BiljkeApi.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\BiljkeApi.pdb
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.csprojAssemblyReference.cache
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.AssemblyInfoInputs.cache
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.AssemblyInfo.cs
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.csproj.CoreCompileInputs.cache
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\staticwebassets\BiljkeApi.StaticWebAssets.Manifest.cache
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\staticwebassets\BiljkeApi.StaticWebAssets.xml
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\scopedcss\bundle\BiljkeApi.styles.css
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.RazorTargetAssemblyInfo.cache
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.csproj.CopyComplete
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\ref\BiljkeApi.dll
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.pdb
+C:\Users\Reza\Desktop\Datoteke\Programsko Inženjerstvo\Biljke Projekt\iPlants\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.genruntimeconfig.cache
+C:\Users\Zovko\Desktop\iPlants novo\webapp-grupa9\BiljkeApi\BiljkeApi\obj\Debug\net5.0\BiljkeApi.csproj.AssemblyReference.cache

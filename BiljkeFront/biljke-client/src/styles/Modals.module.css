@@ -1,0 +1,213 @@
+.createButton{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px 20px 20px 10px;
+    position: fixed;
+    bottom: 30px;
+    right: 15px;
+    z-index: 10;
+}
+.modalTitle {
+    background-color: rgb(90, 190, 90);
+    box-shadow: 0 5px 10px rgb(43, 85, 43);
+}
+.modalTitle h2{
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+.searchModal{
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    margin: 25px;
+    background-color: #ddd;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 7px #888;
+}
+.searchModal:hover{
+    background-color: #e2e2e2;
+    cursor: pointer;
+}
+.searchModalResult{
+    background-color: #fff;
+    padding: 10px;
+}
+.searchModalResult:hover{
+    background-color: #eee;
+    cursor: pointer;
+}
+.createSkladisteInfo{
+    width: 100%;
+    margin-left: 20px;
+}
+.skladisteMikrolokacijeLabel{
+    width: 100%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.skladisteMikrolokacijeSelect{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 40%;
+}
+.skladisteObranoInput{
+    width: 100%;
+    margin: 0 20px !important
+}
+.existsSkladisteInfo{
+    width: 100%;
+    margin: 0 20px !important;
+}
+.marginBottom30{
+    margin-bottom: 30px !important;
+}
+.valutaContainer{
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.valutaLabel{
+    width: 50%;
+    font-weight: bold !important;
+}
+.valutaSelect{
+    width: 46%;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+.narudzbaItemContainer{
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px dashed #999;
+    padding: 10px;
+}
+.narudzbaItemLeft{
+    width: 50%;
+}
+.narudzbaItemRight{
+    width: 46%;
+}
+.narudzbaItemNaziv{
+    width: 100%;
+    margin: 10px 0;
+    font-weight: bold;
+}
+.narudzbaItemLabel{
+    width: 100%;
+    margin: 20px 0;
+}
+.narudzbaItemTextArea{
+    width: 100%;
+}
+
+.narudzbaListItemContainer{
+    width: 100%;
+    margin: 20px 0 !important;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px dashed #999;
+    padding: 0 10px;
+}
+.narudzbaListItemNaziv{
+    width: 100%;
+    margin: 10px 0;
+    font-weight: bold;
+}
+.narudzbaListItemLabel{
+    width: 50%;
+    margin: 10px 0;
+}
+
+.editButton{
+    margin: 0 5px;
+}
+
+.createNarudzba{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px 20px 20px 10px;
+    position: fixed;
+    bottom: 30px;
+    right: 15px;
+}
+
+.createBiljkaButton{    
+    width: 50%;
+    height: 40px;
+    background-color: #ccf5cc;
+    border: 2px solid #316931;
+    border-radius: 8px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #166314;
+    box-shadow: 0 0 8px 2px grey;
+    margin-bottom: 10px;
+}
+
+.createBiljkaButton:hover {
+    cursor: pointer;
+}
+
+.addUpotrebaButton{
+    font-size: 15px;
+    color: #333;
+}
+
+.addUpotrebaButton:hover{
+    cursor: pointer;
+    background-color: white;
+}
+
+.uploadContainer{
+    display: flex;
+}
+
+.uploadButtonContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    height: 100%;
+    justify-content: space-between;
+}
+
+.uploadButton{
+    width: 100%;
+    height: 40px;
+    background-color: #ccf5cc;
+    border: 2px solid #316931;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #166314;
+    -webkit-box-shadow: 0 0 8px 2px grey;
+    box-shadow: 0 0 8px 0px grey;
+}
+
+.uploadInput{    
+    width: 100%;
+    height: 40px;
+    background-color: #ccf5cc;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    background-color: #ccf5cc;
+    border: 2px solid #316931;
+    border-radius: 8px;
+    font-weight: bold;
+    color: #166314;
+    -webkit-box-shadow: 0 0 8px 2px grey;
+    box-shadow: 0 0 8px 0px grey;
+}

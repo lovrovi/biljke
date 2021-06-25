@@ -1,0 +1,130 @@
+.skladiste{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+}
+.skladistePage{
+    margin-left: 0;
+    transition: 1s ease;
+}
+.skladisteBiljka{
+    width: 90%;
+    height: fit-content;
+    background-color: rgb(88, 188, 88);
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    box-shadow: 0 0 5px 1px #888;
+    border-radius: 15px;
+}
+.imgFrame{
+    background-color: var(--main-color);
+    position: relative;
+    min-width: 30%;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    transition: 0.2s ease;
+    border-radius: 15px;
+    height: 230px;
+}
+.imgFrame img{
+    width: 100% !important;
+    /*height: 100% !important;*/
+    transition: 0.2s ease;
+}
+.imgFrame img:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.skladisteBiljkaInfo{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    width: 70%;
+}
+.skladisteBiljkaInfoHeader{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    position: relative;
+    padding-right: 50px;
+}
+.skladisteBiljkaInfoHeader p{
+    font-weight: bold;
+    font-size: 18px;
+}
+.biljkaVrsta{
+    font-weight: 600;
+    font-size: 12px !important;
+    width: 100%;
+    margin-top: 5px;
+}
+.biljkaBtnContainer{
+    display: flex;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 10px;
+}
+.biljkaBtn{
+    margin: 0 5px;
+}
+.infoTable{
+    border: 1px solid black;
+    width: 100%;
+}
+.infoLeft{
+    justify-content: left;
+    text-align: left;
+    width: 40%;
+    padding-left: 5px;
+    font-weight: bold;
+}
+.infoRight{
+    justify-content: left;
+    text-align: left;
+    padding-left: 5px;
+    width: 60%;
+}
+.selectDiv{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    border: 1.5px solid rgb(200, 248, 200);
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    box-shadow: 0 0 5px 0px white inset;
+}
+.selectLabel{
+    width: 100%;
+    font-size: 14px !important;
+    color: black !important;
+    font-weight: bold !important;
+    margin: 3px;
+}
+.selectInput{
+    width: 100%;
+    height: 25px;
+    background-color: rgb(110, 202, 107);
+    font-weight: 400 !important;
+    padding: 5px;
+}
+.hrSidebar {
+    width: 100%;
+    height: 2px;
+    outline: none;
+    border: none;
+    background-color: var(--secondary-color);
+}
